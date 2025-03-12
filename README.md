@@ -33,4 +33,4 @@ Savby AI is proudly powered by **Snbla**, an innovative platform dedicated to he
 ## 📌 Ready to Get Started?
 
 Click below to start chatting with Savby AI now! 💬💰  
-[**Chat with Savby AI on WhatsApp**](https://wa.me/18889985885)
+[**Chat with Savby AI on WhatsApp**](https://wa.me/message/KK4E4Y6TBYHNC1)
