@@ -30,6 +30,29 @@ Savby AI is proudly powered by **Snbla**, an innovative platform dedicated to he
 3️⃣ **Sync Your Bank (Optional)** – Track your savings automatically.  
 4️⃣ **Receive Smart Savings Tips** – Let AI guide you toward better financial habits.
 
+## How to Opt-in
+
+By sending **"START"** to **+1 (888) 998-5885**, you confirm that you agree to receive automated financial messages from **Savby AI**. Standard messaging rates may apply.
+
+## What You’ll Receive
+
+Once opted in, you’ll get:  
+✅ Spending insights and budgeting tips  
+✅ Savings recommendations and reminders  
+✅ Personalized investment advice
+
+Savby AI sends up to **X messages per week** based on your preferences. You can reply **"HELP"** for assistance or **"STOP"** to opt out anytime.
+
+## How to Opt-out
+
+You can opt-out anytime by replying **"STOP"** to our WhatsApp bot. Once you opt-out, you will no longer receive messages from Savby AI.
+
+## Privacy and Compliance
+
+We respect your privacy and ensure that your data is securely handled. By opting in, you agree to our [Privacy Policy](https://savby.ai/privacy) and [Terms of Service](https://savby.ai/terms).
+
+For any questions, contact us at **hello@savby.ai**.
+
 ## 📌 Ready to Get Started?
 
 Click below to start chatting with Savby AI now! 💬💰  
