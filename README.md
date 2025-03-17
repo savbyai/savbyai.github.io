@@ -41,7 +41,9 @@ Once opted in, you’ll get:
 ✅ Savings recommendations and reminders  
 ✅ Personalized investment advice
 
-Savby AI sends up to **X messages per week** based on your preferences. You can reply **"HELP"** for assistance or **"STOP"** to opt out anytime.
+Savby AI only sends messages when necessary—like when you need a reminder about your savings goals, when financial advice is available, or if there are insights about your spending habits.
+
+You can reply **"HELP"** for assistance or **"STOP"** to opt out anytime.
 
 ## How to Opt-out
 
